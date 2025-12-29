@@ -1,4 +1,4 @@
-# Machine Learning for Sound and Music 🎵 🤖
+# Machine Learning for Sound and Music 
 
 This repository contains my weekly assignments, code implementations, and practical experiments for the **Machine Learning for Sound and Music** course.
 
@@ -9,15 +9,6 @@ The course provides a comprehensive overview of deep learning techniques applied
 * **Duration:** 10 Weeks (25 hours)
 * **Format:** Weekly lectures followed by hands-on coding sessions.
 * **Focus:** Practical application of ML algorithms to audio signal processing tasks.
-
-## 🛠️ Tech Stack & Libraries
-
-All practical work is conducted in **Python**, utilizing the following libraries:
-
-* ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-* **Deep Learning:** `PyTorch`, `PyTorch Lightning`, `Keras`, `TorchAudio`
-* **Machine Learning:** `scikit-learn`
-* **Audio Processing:** `librosa`, `numpy`, `pandas`
 
 ## 📅 Syllabus & Assignments
 
